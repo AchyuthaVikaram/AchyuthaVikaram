@@ -37,7 +37,7 @@ I'm always open to collaborating on interesting projects, particularly in:
 
 ## 📫 How to Reach Me
 
-- **Email**: achyuthavikaram@example.com
+- **Email**: achyuthavikaram@gmail.com
 - **LinkedIn**: [Achyutha Vikaram](https://www.linkedin.com/in/achyuthavikaram/)
 - **GitHub**: [AchyuthaVikaram](https://github.com/AchyuthaVikaram)
 
