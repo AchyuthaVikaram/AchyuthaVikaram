@@ -1,17 +1,14 @@
 
 # 👋 Hi, I'm Achyutha Vikaram (@AchyuthaVikaram)
 
-# 👀 I’m interested in GSOC'25,AI,ML
 
 ## 👨‍💻 About Me
 
 I'm a passionate **MERN Stack Developer** with a solid foundation in **Java** and a strong interest in **data structures and algorithms**. Over the past few years, I've built multiple full-stack applications. I have a knack for back-end development but am equally comfortable working across the entire tech stack.
 I've solved **150+ DSA problems** on LeetCode using Java as Primary Language
-I am also an aspiring **Google Summer of Code 2025** participant and have already started my preparations to contribute to open-source projects. 
+
 
 ## 🌱 What I'm Currently Learning
-
-- **React** for building interactive frontends.
 - **Machine Learning** for a project under **Konam Foundation**
 
 ## 💼 What I've Worked On
@@ -25,15 +22,11 @@ I am also an aspiring **Google Summer of Code 2025** participant and have alread
 
 ## 🎯 Goals
 
-- **Crack GSoC 2025**: My goal is to contribute to impactful open-source projects and be part of the global GSoC community.
-- **Explore SDE roles** at top-tier companies like **Amazon** and **Microsoft**.
+- Aspiring to reach the top in **tech** by mastering technologies step-by-step, from small to large, with a vision to bring meaningful change
   
 ## 💞️ Collaboration
 
-I'm always open to collaborating on interesting projects, particularly in:
-- **Open-source contributions** (MERN stack, Java-based projects, cloud solutions).
-- Projects focused on **event management automation** and **traffic control systems**.
-- **DSA problem-solving** and exploring efficient algorithms.
+I'm always open to collaborating on interesting projects.
 
 ## 📫 How to Reach Me
 
