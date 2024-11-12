@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/achyuthavikaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achyuthavikaram" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/VIKARAM_ACHYUTHA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikaram_achyutha" height="30" width="40" /></a>
+  <a href="https://instagram.com/_lightening_rose__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lightening_rose__" height="30" width="40" /></a>
 <a href="https://discord.gg/achyutha_vikaram_38867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="achyutha_vikaram_38867" height="30" width="40" /></a>
 </p>
 
