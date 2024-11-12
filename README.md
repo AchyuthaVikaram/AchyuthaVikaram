@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achyutha Vikaram</h1>
-<h3 align="center">I'm a passionate MERN Stack Developer & Solving DSA problems on LeetCode with JAVA as Primary Language</h3>
+<h3 align="center">m a passionate MERN Stack Developer & Solving DSA problems on LeetCode with JAVA as Primary Language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyuthavikaram&label=Profile%20views&color=0e75b6&style=flat" alt="achyuthavikaram" /> </p>
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/achyuthavikaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achyuthavikaram/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vikaram_achyutha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vikaram_achyutha/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/achyuthavikaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achyuthavikaram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VIKARAM_ACHYUTHA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikaram_achyutha" height="30" width="40" /></a>
 <a href="https://discord.gg/achyutha_vikaram_38867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="achyutha_vikaram_38867" height="30" width="40" /></a>
 </p>
 
