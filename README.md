@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **achyuthavikaram@gmail.com**
 
-- ⚡ Fun fact **Errors are my constant friends!**
+- ⚡ Fun fact **Errors are my constant friends!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
