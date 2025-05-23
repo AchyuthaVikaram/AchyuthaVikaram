@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyuthavikaram&label=Profile%20views&color=0e75b6&style=flat" alt="achyuthavikaram" /> </p>
 
-<h2 align="left">💫 About Me </h2>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/AchyuthaVikaram](https://github.com/AchyuthaVikaram)
-
-- 📫 How to reach me **achyuthavikaram@gmail.com**
-
-- ⚡ Fun fact **Errors are my constant friends!!**
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/__lightening_rose](https://www.instagram.com/_lightening_rose__/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achyuthavikaram) 
@@ -26,6 +16,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=achyuthavikaram&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/AchyuthaVikaram](https://github.com/AchyuthaVikaram)
+
+- 📫 How to reach me **achyuthavikaram@gmail.com**
+
+- ⚡ Fun fact **Errors are my constant friends!!**
 
 ---
 
